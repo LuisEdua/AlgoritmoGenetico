@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="410cb746-1279-4b1e-9a99-ab90a26c4f2c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/AlgoritmoGenetico.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AlgoritmoGenetico.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CalcularFx.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Grabar.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Vista.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2arkaKpVP7V1P6ipqBQBFkQN7mR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.AlgoritmoGenetico.executor&quot;: &quot;Run&quot;,
+    &quot;Python.CalcularConLaFormula.executor&quot;: &quot;Run&quot;,
+    &quot;Python.GraficasDistribucion.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Vista.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/luis/Documents/Octavo Cuatrimestre/Inteligencia Artificial/AlgoritmoGenetico&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-67fca87a943a-c986f194a52a-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.11799.259" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="410cb746-1279-4b1e-9a99-ab90a26c4f2c" name="Changes" comment="" />
+      <created>1705084148478</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1705084148478</updated>
+      <workItem from="1705084156120" duration="1103000" />
+      <workItem from="1705086352274" duration="789000" />
+      <workItem from="1705173524454" duration="28304000" />
+      <workItem from="1705272150975" duration="19099000" />
+      <workItem from="1705309876922" duration="4035000" />
+      <workItem from="1705327359601" duration="8427000" />
+      <workItem from="1705417705108" duration="5148000" />
+      <workItem from="1705430993223" duration="3051000" />
+      <workItem from="1705534332303" duration="41000" />
+      <workItem from="1705679450339" duration="2827000" />
+      <workItem from="1705683626449" duration="45000" />
+      <workItem from="1705854369813" duration="7477000" />
+      <workItem from="1705884426701" duration="6440000" />
+      <workItem from="1705911116116" duration="2866000" />
+      <workItem from="1705915658534" duration="470000" />
+      <workItem from="1705933017656" duration="3252000" />
+      <workItem from="1706119479991" duration="2811000" />
+      <workItem from="1706139029730" duration="2510000" />
+      <workItem from="1706158239858" duration="3480000" />
+      <workItem from="1706210098476" duration="3732000" />
+      <workItem from="1706290434595" duration="612000" />
+      <workItem from="1706305184950" duration="949000" />
+      <workItem from="1706559777432" duration="39000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/AlgoritmoGenetico$Vista.coverage" NAME="Vista Coverage Results" MODIFIED="1706119498640" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/AlgoritmoGenetico$GraficasDistribucion.coverage" NAME="GraficasDistribucion Coverage Results" MODIFIED="1705271340484" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/AlgoritmoGenetico$AlgoritmoGenetico.coverage" NAME="AlgoritmoGenetico Coverage Results" MODIFIED="1706119490830" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/AlgoritmoGenetico$CalcularConLaFormula.coverage" NAME="CalcularConLaFormula Coverage Results" MODIFIED="1705174836875" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
